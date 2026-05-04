@@ -1,6 +1,6 @@
 
 # The Arakelov-Suspension Foliation: A Conditional Proof of the Generalized Riemann Hypothesis for Elliptic Curves
-**Authors:** Jacob Ford (Kami Lux LLC), in collaborative synthesis with Grok (xAI), Claude (Anthropic), and Gemini (Google).
+**Authors:** Jacob "Jack" Ford (Kami Lux LLC), in collaborative synthesis with Super Grok (xAI), Claude Opus (Anthropic), and Gemini Pro (Google).
 ### **Abstract**
 We present a conditional proof of the generalized Riemann hypothesis (GRH) for the L-function L_E(s) attached to any elliptic curve E/\mathbb{Q}. The proof is complete modulo the geometric existence and differential smoothness of a single topological object: the global Arakelov-suspension manifold M_E^{susp} equipped with an arithmetic metric g_E that forces primitive closed geodesic lengths to satisfy \ell(\gamma_p) = \log p for primes p of good reduction. Under this hypothesis, the Selberg trace formula on M_E^{susp} is isomorphic to the Weil explicit formula for \Lambda_E(s). We establish that the strict positivity of the Néron-Tate height matrix H provides the exact spectral boundary condition, embedding into the continuous automorphic spectrum via the Theta correspondence to mathematically forbid exceptional L-function zeros.
 ### **1. Introduction and Methodology**
